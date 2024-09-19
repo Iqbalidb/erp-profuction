@@ -1,0 +1,43 @@
+.poDetailsTable {
+    width: 100%;
+  
+    thead {
+      tr {
+        th {
+          padding: 0.2rem 0 !important;
+          vertical-align: middle;
+          height: 30px;        }
+      }
+    }
+  
+    tbody {
+      tr {
+        height: 30px;
+        td {
+          padding: 0 !important;
+        }
+      }
+    }
+  }
+  
+  .stickyTableHead {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+  
+  .childTable {
+    width: 95%;
+    margin: 0.5rem auto;
+    thead {
+      tr {
+        th {
+          background-color: rgba(115, 103, 240, 0.15) !important;
+        }
+      }
+    }
+  }
+  
+  .inputBoxCenterAlign {
+    text-align: center;
+  }

@@ -1,0 +1,13 @@
+/*
+     Title: Operation Group Action Types
+     Description: Operation Group Action Types
+     Author: Alamgir Kabir
+     Date: 15-December-2022
+     Modified: 15-December-2022
+*/
+export const LOADING_OPERATOR_GROUP = 'LOADING_OPERATOR_GROUP';
+export const TOGGLE_OPERATOR_GROUP_SIDEBAR = 'TOGGLE_OPERATOR_GROUP_SIDEBAR';
+export const FETCH_OPERATOR_GROUP_BY_QUERY = 'FETCH_OPERATOR_GROUP_BY_QUERY';
+export const FETCH_ACTIVE_OPERATOR_GROUP = 'FETCH_ACTIVE_OPERATOR_GROUP';
+export const EDIT_ACTIVE_OPERATOR_GROUP = 'EDIT_ACTIVE_OPERATOR_GROUP';
+export const FETCH_IN_ACTIVE_OPERATOR_GROUP = 'FETCH_IN_ACTIVE_OPERATOR_GROUP';

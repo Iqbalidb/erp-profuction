@@ -1,0 +1,36 @@
+.manageCriticalProcessTable {
+    width: 100%;
+    border: 1px solid #ddd;
+    thead {
+      tr {
+        th {
+          // padding: 0.2rem 0 !important;
+          background-color: #7367f0;
+          color: #fff;
+          text-align: center;
+          height: 30px;
+        }
+      }
+    }
+  
+    tbody {
+      tr {
+        border: 1px solid #ddd;
+        td {
+          box-sizing: border-box !important;
+          padding: 0.3rem !important;
+          border: 1px solid #ddd;
+        }
+      }
+    }
+  }
+  
+  .stickyTableHead {
+    position: sticky;
+    top: 0;
+  }
+  
+  .inputBoxCenterAlign {
+    text-align: center;
+  }
+  

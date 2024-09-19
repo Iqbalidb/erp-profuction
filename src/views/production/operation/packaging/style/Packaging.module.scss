@@ -1,0 +1,44 @@
+.packagingTable {
+  width: 100%;
+  thead {
+    tr {
+      th {
+        padding: 0.2rem 0 !important;
+        vertical-align: middle;
+        height: 30px;      }
+    }
+  }
+  tbody {
+    tr {
+      height: 30px;
+      td {
+        padding: 0 !important;
+      }
+    }
+  }
+}
+.stickyTableHead {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+.childTable {
+  width: 95%;
+  margin: 00.5rem auto;
+  thead {
+    text-align: center;
+    tr {
+      th {
+        background-color: gray;
+      }
+    }
+  }
+  tbody {
+    text-align: center;
+    tr {
+      td {
+        padding: 0 !important;
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/*
+     Title: Action Types for Zone Group
+     Description: Action Types for Zone Group
+     Author: Alamgir Kabir
+     Date: 30-March-2022
+     Modified: 30-March-2022
+*/
+export const FETCH_ZONE_GROUP_BY_QUERY = 'FETCH_ZONE_GROUP_BY_QUERY';
+export const FETCH_ZONE_GROUP_BY_ID = 'FETCH_ZONE_GROUP_BY_ID';
+export const LOADING = 'LOADING';
+export const TOGGLE_ZONE_GROUP_DETAILS_MODAL = 'TOGGLE_ZONE_GROUP_DETAILS_MODAL';
+export const RESET_SELECTED_ZONE_GROUP = 'RESET_SELECTED_ZONE_GROUP';
+export const TEST_LINE_DDL = 'TEST_LINE_DDL';
+export const FETCH_LINE_DROPDOWN_BY_FLOOR_AND_PRODUCTION_PROCESS = 'FETCH_LINE_DROPDOWN_BY_FLOOR_AND_PRODUCTION_PROCESS';
+export const FETCH_ZONE_GROUP_DDL = 'FETCH_ZONE_GROUP_DDL';

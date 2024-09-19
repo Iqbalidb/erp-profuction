@@ -1,0 +1,14 @@
+/*
+      Title: Action Type
+      Description: Action Type
+      Author: Iqbal Hossain
+      Date: 05-January-2022
+      Modified: 05-January-2022
+*/
+export const FETCH_TODAYS_SEWING_OUT = 'FETCH_TODAYS_SEWING_OUT';
+export const LOADING = 'LOADING';
+export const FETCH_PREVIOUS_SEWING_OUT = 'FETCH_PREVIOUS_SEWING_OUT';
+export const FETCH_SEWING_OUT_BY_MASTER_ID = 'FETCH_SEWING_OUT_BY_MASTER_ID';
+export const FETCH_COLOR_BY_LINE_AND_STYLE_ID = 'FETCH_COLOR_BY_LINE_AND_STYLE_ID';
+export const FETCH_SIZE_INFO_BY_LINE_STYLE_AND_COLOR_ID = 'FETCH_SIZE_INFO_BY_LINE_STYLE_AND_COLOR_ID';
+export const RESET_SEWING_OUT_STATE = 'RESET_SEWING_OUT_STATE';
